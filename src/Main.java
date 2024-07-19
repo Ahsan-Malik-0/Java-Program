@@ -27,15 +27,5 @@ public class Main {
         }
 
         System.out.println();
-       
+    
     }
-
-    void print(){
-        System.out.println(add(4, 8));
-    }
-
-    int add(int a, int b){
-        int sum = a+b;
-        return sum;
-    }
-}
