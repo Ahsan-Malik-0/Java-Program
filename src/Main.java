@@ -26,9 +26,5 @@ public class Main {
 
         System.out.println();
     
-<<<<<<< HEAD
     }
-=======
-        }    
->>>>>>> feature1
 }
